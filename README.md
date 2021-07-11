@@ -1,12 +1,5 @@
 # app
-This project is a simple Vue app that mimics a posting platform such as a forum. A user can read and interact with a post, view it in detail with its comments, add a new post using a button as well as delete a post by double-clicking on it.  This app showcases / utilizes:
-Vue CLI
-Vue Router
-API Calls
-Components
-Data (Adding, Deletion)
-Dynamic Routing
-Bootstrap
+This project is a simple Vue app that mimics a posting platform such as a forum. A user can read and interact with a post, view it in detail with its comments, add a new post using a button as well as delete a post by double-clicking on it.  This app showcases / utilizes: Vue CLI, Vue Router, API Calls, Components, Data (Adding, Deletion), Dynamic Routing and Bootstrap.
 
 
 ## Project setup
